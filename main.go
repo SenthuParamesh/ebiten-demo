@@ -13,7 +13,7 @@ import (
 
 const (
 	// Settings for the ugame screen
-	screenWidth  = 1500
+	screenWidth  = 1600
 	screenHeight = 400
 )
 
